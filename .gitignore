@@ -1,4 +1,5 @@
 code_template.egg-info/
 __pycache__/
 ckpt/*
+data/*
 !ckpt/README.md

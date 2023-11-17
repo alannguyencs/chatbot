@@ -1,5 +1,5 @@
 from setuptools import find_packages, setup
 setup(
-	name='code_template',
+	name='chatbot',
 	packages=find_packages(),
 )
