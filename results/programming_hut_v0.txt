@@ -1,0 +1,1952 @@
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:    
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:    
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:    
+
+user: i like to eat fish 
+ bot:    
+
+user: Hello there! 
+ bot:    
+
+user: How are you? 
+ bot:   ik  
+
+user: Tell me a fun fact about space. 
+ bot:    
+
+user: Can you recommend a good book to read? 
+ bot:    
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:    
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:    
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:   ik  
+
+user: Do you have dogs? 
+ bot:   ik  
+
+user: What is your favorite movie? 
+ bot:   ik  
+
+user: do you like spending your (or not so) money? 
+ bot:   ршhello 
+
+user: I am from the south, where are you from? 
+ bot:   ршhello  
+
+user: what are u gonna do this weekend? 
+ bot:   ik  
+
+user: I do not like sports. 
+ bot:   ik  
+
+user: Do you have any hobbies ? 
+ bot:   ik  
+
+user: I like to go to the gym. 
+ bot:   ik  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ik  
+
+user: How are you? 
+ bot:   ik  
+
+user: Tell me a fun fact about space. 
+ bot:   ik  
+
+user: Can you recommend a good book to read? 
+ bot:   ik  
+
+user: What are the health benefits of eating bananas? 
+ bot:   ik  
+
+user: How can I make a chocolate cake? 
+ bot:   ik  
+
+user: What's the weather like today? 
+ bot:   ik  
+
+user: Can you recommend a good restaurant nearby? 
+ bot:   ik  
+
+user: What are the benefits of exercise? 
+ bot:   ik  
+
+user: How do I reset my email password? 
+ bot:   ik  
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:    
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:    
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:    
+
+user: i like to eat fish 
+ bot:    
+
+user: Hello there! 
+ bot:    
+
+user: How are you? 
+ bot:    Oh FYI, I'm a graphic designer if anybody asks 
+
+user: Tell me a fun fact about space. 
+ bot:    
+
+user: Can you recommend a good book to read? 
+ bot:    
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:    Oh, Emma and I are making a 
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:    
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhi  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:    
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:    
+
+user: i like to eat fish 
+ bot:    
+
+user: Hello there! 
+ bot:    
+
+user: How are you? 
+ bot:    I'M good................................................  
+
+user: Tell me a fun fact about space. 
+ bot:    
+
+user: Can you recommend a good book to read? 
+ bot:    
+
+user: What are the health benefits of eating bananas? 
+ bot:   ршhello  
+
+user: How can I make a chocolate cake? 
+ bot:    Oh, you should try it more and 
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:    Oh, i like to eat veggies that i 
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    No, i do not have any pets  
+
+user: Do you have dogs? 
+ bot:   ршhi  
+
+user: What is your favorite movie? 
+ bot:   ршhi  
+
+user: do you like spending your (or not so) money? 
+ bot:   ршhi 
+
+user: I am from the south, where are you from? 
+ bot:   ршhi  
+
+user: what are u gonna do this weekend? 
+ bot:   ik  
+
+user: I do not like sports. 
+ bot:   ik  
+
+user: Do you have any hobbies ? 
+ bot:   ik  
+
+user: I like to go to the gym. 
+ bot:   ik  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ik  
+
+user: How are you? 
+ bot:   ik  
+
+user: Tell me a fun fact about space. 
+ bot:   ik  
+
+user: Can you recommend a good book to read? 
+ bot:   ршhi  
+
+user: What are the health benefits of eating bananas? 
+ bot:   ik  
+
+user: How can I make a chocolate cake? 
+ bot:   ik  
+
+user: What's the weather like today? 
+ bot:   ршhi  
+
+user: Can you recommend a good restaurant nearby? 
+ bot:   ршhi  
+
+user: What are the benefits of exercise? 
+ bot:   ршhi  
+
+user: How do I reset my email password? 
+ bot:   ik  
+
+------------------------
+user: Do you have any pets? 
+ bot:    I do not have any pets  
+
+user: Do you have dogs? 
+ bot:    I do not know what that means  
+
+user: What is your favorite movie? 
+ bot:    I like the show show show cartoons, i like 
+
+user: do you like spending your (or not so) money? 
+ bot:    I do not have 
+
+user: I am from the south, where are you from? 
+ bot:   ршhi  
+
+user: what are u gonna do this weekend? 
+ bot:    I am going to be a night owl 
+
+user: I do not like sports. 
+ bot:    
+
+user: Do you have any hobbies ? 
+ bot:   ik  
+
+user: I like to go to the gym. 
+ bot:    
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:    
+
+user: How are you? 
+ bot:    I'M good................................................  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhi  
+
+user: Can you recommend a good book to read? 
+ bot:   ршhello  
+
+user: What are the health benefits of eating bananas? 
+ bot:    But Guy, I'm only for 
+
+user: How can I make a chocolate cake? 
+ bot:    Oh, no! You eat your books 
+
+user: What's the weather like today? 
+ bot:    Oh, nice. I like to play ball 
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    I do not know what that means  
+
+user: What are the benefits of exercise? 
+ bot:    Oh, yeah, it's one of survival 
+
+user: How do I reset my email password? 
+ bot:    Oh, no! You keep saying that 
+
+------------------------
+user: Do you have any pets? 
+ bot:    I have two dogs, and a pit bull. 
+
+user: Do you have dogs? 
+ bot:    I do not have any dogs, but i do like 
+
+user: What is your favorite movie? 
+ bot:    i like movies and movies.  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    I am going to be a night owl 
+
+user: I do not like sports. 
+ bot:   ik  
+
+user: Do you have any hobbies ? 
+ bot:    I am dealing with flower and garden work  
+
+user: I like to go to the gym. 
+ bot:   ik  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:    i am a very experienced person, so i know it is a 
+
+user: How are you? 
+ bot:    i am not sure. i am a very experienced person. 
+
+user: Tell me a fun fact about space. 
+ bot:    I will have to look for a new 
+
+user: Can you recommend a good book to read? 
+ bot:    I read a lot of books about 
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:    Oh, Jesus! I feel like a 
+
+user: What's the weather like today? 
+ bot:    I am in the south of the day  
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    I do not know what that is  
+
+user: What are the benefits of exercise? 
+ bot:    I am not very good at it  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhello  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:    
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:    
+
+user: i like to eat fish 
+ bot:    
+
+user: Hello there! 
+ bot:    i am a very experienced person, so i know it is a 
+
+user: How are you? 
+ bot:    I'M doing great, how about you?  
+
+user: Tell me a fun fact about space. 
+ bot:   ik  
+
+user: Can you recommend a good book to read? 
+ bot:    
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:    
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:    
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:    I like action movies, movies, movies, movies 
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:    
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:   ik  
+
+user: i like to eat fish 
+ bot:    
+
+user: Hello there! 
+ bot:    i am not sure. i am a very experienced person.  
+
+user: How are you? 
+ bot:    I'M doing great, how about you?  
+
+user: Tell me a fun fact about space. 
+ bot:   ik  
+
+user: Can you recommend a good book to read? 
+ bot:   ik  
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:    I make sure to make sure.  
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    I do not know what that is  
+
+user: What are the benefits of exercise? 
+ bot:    I do not know what that is  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:   ik  
+
+user: Do you have dogs? 
+ bot:   ik  
+
+user: What is your favorite movie? 
+ bot:   ршhi  
+
+user: do you like spending your (or not so) money? 
+ bot:   ршhi 
+
+user: I am from the south, where are you from? 
+ bot:   ршhi  
+
+user: what are u gonna do this weekend? 
+ bot:   ik  
+
+user: I do not like sports. 
+ bot:   ршhi  
+
+user: Do you have any hobbies ? 
+ bot:   ik  
+
+user: I like to go to the gym. 
+ bot:   ршhi  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ik  
+
+user: How are you? 
+ bot:   ik  
+
+user: Tell me a fun fact about space. 
+ bot:   ik  
+
+user: Can you recommend a good book to read? 
+ bot:   ik  
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:   ршhi  
+
+user: What's the weather like today? 
+ bot:   ршhi  
+
+user: Can you recommend a good restaurant nearby? 
+ bot:   ршhi  
+
+user: What are the benefits of exercise? 
+ bot:   ik  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ik  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:   ршhi  
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:   ik  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ik  
+
+user: How are you? 
+ bot:   ik  
+
+user: Tell me a fun fact about space. 
+ bot:   ik  
+
+user: Can you recommend a good book to read? 
+ bot:   ik  
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:   ik  
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:   ршhi  
+
+user: What are the benefits of exercise? 
+ bot:    i am not very good at it. i 
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhello  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:   ik  
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:   ршhi  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ik  
+
+user: How are you? 
+ bot:   ik  
+
+user: Tell me a fun fact about space. 
+ bot:   ik  
+
+user: Can you recommend a good book to read? 
+ bot:   ршhello  
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:   ршhello  
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:   ршhi  
+
+user: What are the benefits of exercise? 
+ bot:   ршhi  
+
+user: How do I reset my email password? 
+ bot:   ршhi  
+
+------------------------
+user: Do you have any pets? 
+ bot:   ik  
+
+user: Do you have dogs? 
+ bot:   ik  
+
+user: What is your favorite movie? 
+ bot:   ршhello  
+
+user: do you like spending your (or not so) money? 
+ bot:   ршhi 
+
+user: I am from the south, where are you from? 
+ bot:   ршhi  
+
+user: what are u gonna do this weekend? 
+ bot:   ik  
+
+user: I do not like sports. 
+ bot:   ik  
+
+user: Do you have any hobbies ? 
+ bot:   ik  
+
+user: I like to go to the gym. 
+ bot:   ik  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ik  
+
+user: How are you? 
+ bot:   ik  
+
+user: Tell me a fun fact about space. 
+ bot:   ik  
+
+user: Can you recommend a good book to read? 
+ bot:   ik  
+
+user: What are the health benefits of eating bananas? 
+ bot:   ik  
+
+user: How can I make a chocolate cake? 
+ bot:   ik  
+
+user: What's the weather like today? 
+ bot:   ik  
+
+user: Can you recommend a good restaurant nearby? 
+ bot:   ршhi  
+
+user: What are the benefits of exercise? 
+ bot:   ik  
+
+user: How do I reset my email password? 
+ bot:   ik  
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:    
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    I am going to be a night owl 
+
+user: I do not like sports. 
+ bot:    
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:   ik  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ршhi  
+
+user: How are you? 
+ bot:   ршhi  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhi  
+
+user: Can you recommend a good book to read? 
+ bot:    
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:    
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:   ik  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhi  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    I am going to be a night owl 
+
+user: I do not like sports. 
+ bot:    
+
+user: Do you have any hobbies ? 
+ bot:   ik  
+
+user: I like to go to the gym. 
+ bot:   ik  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ik  
+
+user: How are you? 
+ bot:   ik  
+
+user: Tell me a fun fact about space. 
+ bot:   ik  
+
+user: Can you recommend a good book to read? 
+ bot:    
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:    
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:   ik  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhi  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    I am going to be a night owl 
+
+user: I do not like sports. 
+ bot:   ршhi  
+
+user: Do you have any hobbies ? 
+ bot:   ik  
+
+user: I like to go to the gym. 
+ bot:   ik  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ikings  
+
+user: How are you? 
+ bot:   ршhi  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhi  
+
+user: Can you recommend a good book to read? 
+ bot:    
+
+user: What are the health benefits of eating bananas? 
+ bot:   ik  
+
+user: How can I make a chocolate cake? 
+ bot:   ршhi  
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:   ik  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:    
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:   ik  
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:    
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:    
+
+user: How are you? 
+ bot:   ршhi  
+
+user: Tell me a fun fact about space. 
+ bot:    
+
+user: Can you recommend a good book to read? 
+ bot:    
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:    
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:   ршhi  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhello  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:   ik  
+
+user: I do not like sports. 
+ bot:   ршhi  
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:   ршhi  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:    
+
+user: How are you? 
+ bot:   ршhi  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhi  
+
+user: Can you recommend a good book to read? 
+ bot:   ршhello  
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:   ршhello  
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:   ршhi  
+
+user: What are the benefits of exercise? 
+ bot:   ршhi  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhi  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:   ik  
+
+user: I do not like sports. 
+ bot:   ik  
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:   ik  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:    
+
+user: How are you? 
+ bot:   ршhi  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhi  
+
+user: Can you recommend a good book to read? 
+ bot:   ршhi  
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:   ik  
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:   ршhi  
+
+user: What are the benefits of exercise? 
+ bot:   ршhi  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:    
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:   ршhello  
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:   ршhi  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:    
+
+user: How are you? 
+ bot:   ршhi  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhi  
+
+user: Can you recommend a good book to read? 
+ bot:   ршhello  
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:   ik  
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:    
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhello  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:   ршhello  
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:   ршhi  
+
+user: i like to eat fish 
+ bot:    
+
+user: Hello there! 
+ bot:    
+
+user: How are you? 
+ bot:   ршhello  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhi  
+
+user: Can you recommend a good book to read? 
+ bot:   ршhello  
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:   ik  
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:   ршhi  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ik  
+
+user: do you like spending your (or not so) money? 
+ bot:   ршhello 
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:   iza  
+
+user: I do not like sports. 
+ bot:   ik  
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:   ршhello  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ik  
+
+user: How are you? 
+ bot:   ршhello  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhello  
+
+user: Can you recommend a good book to read? 
+ bot:   ршhello  
+
+user: What are the health benefits of eating bananas? 
+ bot:   ik  
+
+user: How can I make a chocolate cake? 
+ bot:   ik  
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:   ршhello  
+
+user: What are the benefits of exercise? 
+ bot:   ршhello  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhello  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:   ршhello  
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:   ршhello  
+
+user: Do you have any hobbies ? 
+ bot:   ik  
+
+user: I like to go to the gym. 
+ bot:   ршhello  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ршhello  
+
+user: How are you? 
+ bot:   ршhello  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhi  
+
+user: Can you recommend a good book to read? 
+ bot:   ршhello  
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:   ik  
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:   ршhi  
+
+user: What are the benefits of exercise? 
+ bot:   ршhello  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhello  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    I am going to be a night owl 
+
+user: I do not like sports. 
+ bot:   ik  
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:    
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ik  
+
+user: How are you? 
+ bot:   ршhi  
+
+user: Tell me a fun fact about space. 
+ bot:    
+
+user: Can you recommend a good book to read? 
+ bot:   ршhello  
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:    
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:   ршhello  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhello  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    I am going to be a night owl 
+
+user: I do not like sports. 
+ bot:   ршhello  
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:   ршhi  
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:    
+
+user: How are you? 
+ bot:   ршhello  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhello  
+
+user: Can you recommend a good book to read? 
+ bot:   ршhello  
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:   ik  
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:   ршhello  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:    I like action movies, movies, movies, movies 
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    I am going to be a night owl 
+
+user: I do not like sports. 
+ bot:    
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:    
+
+user: i like to eat fish 
+ bot:    
+
+user: Hello there! 
+ bot:   ik  
+
+user: How are you? 
+ bot:    I'M doing great, how about you?  
+
+user: Tell me a fun fact about space. 
+ bot:    
+
+user: Can you recommend a good book to read? 
+ bot:    
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:    
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    That's great. I want to have 
+
+user: What are the benefits of exercise? 
+ bot:    
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhello  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    I am going to be a night owl 
+
+user: I do not like sports. 
+ bot:    
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:    
+
+user: i like to eat fish 
+ bot:    
+
+user: Hello there! 
+ bot:    
+
+user: How are you? 
+ bot:   ршhi  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhi  
+
+user: Can you recommend a good book to read? 
+ bot:    
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:    
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:    
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhello  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    I am going to be a night owl 
+
+user: I do not like sports. 
+ bot:    
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:    
+
+user: i like to eat fish 
+ bot:    
+
+user: Hello there! 
+ bot:   ik  
+
+user: How are you? 
+ bot:   ршhello  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhello  
+
+user: Can you recommend a good book to read? 
+ bot:    
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:    
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:   ршhello  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ik  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:    
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:    
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ik  
+
+user: How are you? 
+ bot:   ik  
+
+user: Tell me a fun fact about space. 
+ bot:    
+
+user: Can you recommend a good book to read? 
+ bot:    
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:    
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:    
+
+user: What are the benefits of exercise? 
+ bot:    
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhello  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:    
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:    
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ik  
+
+user: How are you? 
+ bot:   ршhi  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhi  
+
+user: Can you recommend a good book to read? 
+ bot:   ршhello  
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:   ршhello  
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:   ршhello  
+
+user: What are the benefits of exercise? 
+ bot:   ршhello  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:    
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhi  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:    
+
+user: Do you have any hobbies ? 
+ bot:    
+
+user: I like to go to the gym. 
+ bot:    
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:    
+
+user: How are you? 
+ bot:   ршhi  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhi  
+
+user: Can you recommend a good book to read? 
+ bot:   ршhello  
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:   ршhello  
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:   ршhi  
+
+user: What are the benefits of exercise? 
+ bot:   ршhi  
+
+user: How do I reset my email password? 
+ bot:    
+
+------------------------
+user: Do you have any pets? 
+ bot:   ршhello  
+
+user: Do you have dogs? 
+ bot:    
+
+user: What is your favorite movie? 
+ bot:   ршhello  
+
+user: do you like spending your (or not so) money? 
+ bot:    
+
+user: I am from the south, where are you from? 
+ bot:    
+
+user: what are u gonna do this weekend? 
+ bot:    
+
+user: I do not like sports. 
+ bot:   ршhello  
+
+user: Do you have any hobbies ? 
+ bot:   ik  
+
+user: I like to go to the gym. 
+ bot:    
+
+user: i like to eat fish 
+ bot:   ik  
+
+user: Hello there! 
+ bot:   ik  
+
+user: How are you? 
+ bot:   ршhello  
+
+user: Tell me a fun fact about space. 
+ bot:   ршhello  
+
+user: Can you recommend a good book to read? 
+ bot:   ршhello  
+
+user: What are the health benefits of eating bananas? 
+ bot:    
+
+user: How can I make a chocolate cake? 
+ bot:   ршhello  
+
+user: What's the weather like today? 
+ bot:    
+
+user: Can you recommend a good restaurant nearby? 
+ bot:   ршhello  
+
+user: What are the benefits of exercise? 
+ bot:   ршhello  
+
+user: How do I reset my email password? 
+ bot:    
+
